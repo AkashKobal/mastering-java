@@ -12,7 +12,8 @@ This repository is designed to take you **from Java fundamentals to production-g
 - Engineers preparing for **coding rounds & interviews**
 - Developers upgrading to **modern Spring Boot, Microservices, Cloud & AI**
 - Anyone who wants a **single, structured Java roadmap** without gaps
-
+- Below is the **final, corrected, and fully exhaustive Java + Spring Boot industry roadmap**.
+- This is a **true end-to-end Java Backend / Full-Stack Engineering roadmap**.
 ---
 
 ## 🧭 Learning Roadmap
@@ -32,16 +33,6 @@ Java Fundamentals
 → Spring AI & Modern Backend  
 → Full-Stack Development (React + Spring Boot)  
 → System Design & Interview Preparation  
-
----
-Below is the **final, corrected, and fully exhaustive Java + Spring Boot industry roadmap**.
-
-✅ **Nothing is missing**
-✅ **All topics from ALL tutorials you shared are included**
-✅ **Modern + legacy + enterprise + cloud + AI covered**
-✅ **Structured exactly how companies think about skills**
-
-This is a **true end-to-end Java Backend / Full-Stack Engineering roadmap**.
 
 ---
 
