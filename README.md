@@ -18,22 +18,33 @@ This repository is designed to take you **from Java fundamentals to production-g
 
 ## 🧭 Learning Roadmap
 
-Java Fundamentals  
-→ Core & Advanced Java  
-→ DSA using Java  
-→ Collections, Concurrency & JVM Internals  
-→ Web (JSP, Servlets, JDBC, Hibernate)  
-→ Spring Framework (Core, MVC, AOP)  
-→ Spring Boot & REST APIs  
-→ Security (JWT, OAuth2)  
-→ Redis & Kafka  
-→ Microservices Architecture  
-→ Docker & Kubernetes  
-→ CI/CD & Cloud Deployment  
-→ Spring AI & Modern Backend  
-→ Full-Stack Development (React + Spring Boot)  
-→ System Design & Interview Preparation  
-
+PHASE 1: Java Fundamentals (Core Java)→ Core & Advanced Java  
+PHASE 2: Methods, Memory & Language Internals→ Collections, Concurrency & JVM Internals  
+PHASE 3: Object-Oriented Programming (CRITICAL)→ Spring Framework (Core, MVC, AOP)  
+PHASE 4: Strings, Arrays & Core APIs
+PHASE 5: Exception Handling & IO
+PHASE 6: Collections Framework (TOP PRIORITY)
+PHASE 7: Generics & Advanced Core Java
+PHASE 8: Multithreading & Concurrency
+PHASE 9: Java 8 → Modern Java (Advanced Language Features)
+PHASE 10: Build Tools, IDE & Testing
+PHASE 11: JDBC & Hibernate / JPA
+PHASE 12: Web Development (Legacy + Foundation)
+PHASE 13: Spring Framework (CORE)
+PHASE 14: Spring AOP
+PHASE 15: Spring Boot (MANDATORY)
+PHASE 16: Data Access with Spring Boot
+PHASE 17: Spring Security
+PHASE 18: JWT & OAuth2
+PHASE 19: Redis & Kafka
+PHASE 20: Microservices Architecture
+PHASE 21: Cloud Deployment
+PHASE 22: Docker & Kubernetes
+PHASE 23: CI/CD & DevOps
+PHASE 24: Frontend (Full-Stack Support)
+PHASE 25: Spring AI (Generative AI)
+PHASE 26: Data Structures & Algorithms (INTERVIEW)
+PHASE 27: System Design & Interview Prep
 ---
 
 # ☕🚀 ULTIMATE JAVA ENGINEERING ROADMAP (ZERO GAPS)
