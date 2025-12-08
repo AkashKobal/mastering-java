@@ -346,7 +346,7 @@ This repository is designed to take you **from Java fundamentals to production-g
 
 ---
 
-## ✅ PHASE 14: Spring AOP (NOW INCLUDED)
+## PHASE 14: Spring AOP
 
 * AOP principles
 * AOP vs OOP
@@ -466,7 +466,7 @@ This repository is designed to take you **from Java fundamentals to production-g
 
 ---
 
-## ✅ PHASE 21: Cloud Deployment (NOW INCLUDED)
+## PHASE 21: Cloud Deployment
 
 * Deploy Spring Boot apps
 * AWS Elastic Beanstalk
@@ -587,7 +587,7 @@ This is a **complete Java ecosystem roadmap** — equivalent to **2–3 years of
 
 ---
 
-## ✅ Interview Preparation
+## Interview Preparation
 
 - Core Java Questions  
 - Spring & Spring Boot Q&A  
