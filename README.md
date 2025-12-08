@@ -29,45 +29,6 @@ Java Fundamentals
 → System Design & Interview Preparation
 
 ---
-## 📂 Repository Structure
-mastering-java/
-│
-├── 01-java-basics/
-├── 02-java-core/
-├── 03-oops/
-├── 04-java-advanced/
-├── 05-dsa-using-java/
-│
-├── 06-collections-framework/
-├── 07-multithreading-concurrency/
-├── 08-exception-handling/
-├── 09-java-io-nio/
-├── 10-jdbc-hibernate/
-│
-├── 11-jsp-servlets-web/
-├── 12-spring-framework/
-├── 13-spring-boot/
-├── 14-spring-security/
-├── 15-spring-ai-llm-rag/
-│
-├── 16-redis-cache-pubsub/
-├── 17-kafka-messaging/
-├── 18-microservices/
-├── 19-observability-logging/
-│
-├── 20-docker/
-├── 21-kubernetes/
-├── 22-ci-cd-devops/
-│
-├── 23-react-frontend/
-├── 24-java-fullstack-projects/
-│
-├── 25-system-design/
-├── 26-interview-preparation/
-└── README.md
-
-
----
 
 ## ✅ Java Basics & Core Java
 
