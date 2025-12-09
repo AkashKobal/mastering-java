@@ -46,11 +46,12 @@ This repository is designed to take you **from Java fundamentals to production-g
 ### PHASE 25: Spring AI (Generative AI)
 ### PHASE 26: Data Structures & Algorithms (INTERVIEW)
 ### PHASE 27: System Design & Interview Prep
+
 ---
 
 ## PHASE 0: Prerequisites (Mandatory Foundations)
 
-* Programming basics
+* Basics of Computer Programming
 * Basic SQL
 * Command line & Git basics
 
