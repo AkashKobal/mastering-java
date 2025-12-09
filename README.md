@@ -19,6 +19,7 @@ This repository is designed to take you **from Java fundamentals to production-g
 
 ## 🧭 Learning Roadmap
 
+### PHASE 0: Prerequisites (Mandatory Foundations)
 ### PHASE 1: Java Fundamentals (Core Java)
 ### PHASE 2: Methods, Memory & Language Internals
 ### PHASE 3: Object-Oriented Programming (CRITICAL)
