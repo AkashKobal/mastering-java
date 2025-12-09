@@ -53,7 +53,7 @@ This repository is designed to take you **from Java fundamentals to production-g
 
 * Basics of Computer Programming
 * Basic SQL
-* Command line & Git basics
+* Command Line and Git Basics
 
 ---
 
