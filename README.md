@@ -62,18 +62,18 @@ This repository is designed to take you **from Java fundamentals to production-g
 
 ### Java Basics
 
-* Java overview & history
-* JVM, JRE, JDK
-* Java versions (8 → 21 LTS)
-* Environment setup (IntelliJ, Eclipse, STS)
-* Hello World (plain Java + Maven)
-* Keywords & identifiers
-* Variables & constants
-* Primitive & non-primitive data types
-* Type casting (implicit & explicit)
-* Java literals
-* Naming conventions
-* Code blocks, indentation & statements
+1. Java overview & history 
+2. JVM, JRE, JDK 
+3. Java versions (8 → 21 LTS)
+4. Environment setup (IntelliJ, Eclipse, STS)
+5. Hello World (plain Java + Maven)
+6. Keywords & identifiers 
+7. Variables & constants 
+8. Primitive & non-primitive data types 
+9. Type casting (implicit & explicit)
+10. Java literals 
+11. Naming conventions 
+12. Code blocks, indentation & statements
 
 ### Operators & Decision Making
 
