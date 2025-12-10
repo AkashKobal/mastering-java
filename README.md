@@ -70,7 +70,7 @@ This repository is designed to take you **from Java fundamentals to production-g
 6. Keywords & identifiers 
 7. Variables & constants 
 8. Primitive & non-primitive data types 
-9. Type casting (implicit & explicit)
+9. Type Conversion and Type Casting (implicit & explicit)
 10. Java literals 
 11. Naming conventions 
 12. Code blocks, indentation & statements
